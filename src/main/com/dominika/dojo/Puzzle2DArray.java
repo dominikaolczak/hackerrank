@@ -3,7 +3,7 @@ package com.dominika.dojo;
 public class Puzzle2DArray {
 
     // Complete the hourglassSum function below.
-    public static int solution(int[][] arr) {
+    static int solution(int[][] arr) {
         int maximumHourglassSum = 0;
         boolean isRealSum = false;
         int lastRowForHourGlasses = arr.length - 2;
