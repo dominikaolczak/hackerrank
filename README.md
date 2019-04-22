@@ -1,2 +1,3 @@
 # hackerrank
-My hackerrank solutions
+
+Hackerrank solutions
